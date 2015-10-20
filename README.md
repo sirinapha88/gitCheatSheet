@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# gitCheatSheet
-gitCheatSheet
-=======
-## Cheat Sheet
-=======
-#### Cheat Sheet
->>>>>>> addd h2
+### Cheat Sheet
 
 Whenever you're confused about git, come read this cheat sheet. Remember that all git commands can be run with the `--help` option. For example:
 
@@ -47,4 +39,3 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 #### Merging
 
 `$ git merge <branch name>` - __Fill Me Out__
->>>>>>> initial commit, added a readme file
