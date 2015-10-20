@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # gitCheatSheet
 gitCheatSheet
 =======
 ## Cheat Sheet
+=======
+#### Cheat Sheet
+>>>>>>> addd h2
 
 Whenever you're confused about git, come read this cheat sheet. Remember that all git commands can be run with the `--help` option. For example:
 
