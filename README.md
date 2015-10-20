@@ -21,20 +21,23 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 `$ git log -p [filename]` Display the patch representing each commit. This shows the full diff of each commit, which is the most detailed view you can have of your project history.
 
 #### Stage files to commit
-`$ git add <filename>` - __Fill Me Out__
+`$ git add <filename>` -  Add file contents to the index
 
-`$ git add -A` - __Fill Me Out__
+
+`$ git add -A` -  - Tell the command to automatically stage files that have been modified and deleted, but new files you have not told Git about are not affected.
+
 
 #### Commit changes in staged files
-`$ git commit -m "<commit message>"` - __Fill Me Out__
+`$ git commit -m "<commit message>"` -- Record changes to the repository
+
 
 #### Branching
-`$ git branch <branch name>` - __Fill Me Out__
+`$ git branch <branch name>` - create branches
 
-`$ git branch` - __Fill Me Out__
+`$ git branch` -  List, create, or delete branches
 
-`$ git checkout <branch name>` - __Fill Me Out__
+`$ git checkout <branch name>` - Checkout a branch or paths to the working tree
 
 #### Merging
 
-`$ git merge <branch name>` - __Fill Me Out__
+`$ git merge <branch name>` - Join two or more development histories together
